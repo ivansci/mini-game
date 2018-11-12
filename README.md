@@ -2,8 +2,6 @@
 
 To make the ball move from a position to another simply click inside the container
 
-minified files can be found in mini-game/dist
-
 # MiniGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
